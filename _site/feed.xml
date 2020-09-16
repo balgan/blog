@@ -1,4 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-13T04:17:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">Things I wish I knew before coming to infosec.</title><link href="http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec.html" rel="alternate" type="text/html" title="Things I wish I knew before coming to infosec." /><published>2019-10-30T01:56:18+01:00</published><updated>2019-10-30T01:56:18+01:00</updated><id>http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec</id><content type="html" xml:base="http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec.html">&lt;p&gt;Over the last 12 years, I’ve worked in multiple roles in Information Security, from being a pentester to analyst, leading an infosec team responsible for a multi-million dollar company to running my own company in infosec, and there a couple of learnings that I believe, if I had known before coming to infosec would have led to two important outcomes:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-16T17:56:51+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">2 Users, 1 security notification</title><link href="http://localhost:4000/cybersecurity/2020/09/13/1issue3explanations.html" rel="alternate" type="text/html" title="2 Users, 1 security notification" /><published>2020-09-13T02:56:18+02:00</published><updated>2020-09-13T02:56:18+02:00</updated><id>http://localhost:4000/cybersecurity/2020/09/13/1issue3explanations</id><content type="html" xml:base="http://localhost:4000/cybersecurity/2020/09/13/1issue3explanations.html">&lt;p&gt;Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.&lt;/p&gt;
+
+&lt;p&gt;We continued to build features into the &lt;a href=&quot;https://app.binaryedge.io&quot;&gt;scanning platform&lt;/a&gt; but also a new product &lt;a href=&quot;https://asm.binaryedge.io&quot;&gt;Attack Surface Monitoring.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the features of ASM is the capability for a user to receive notifications about issues found in the organizations they are monitoring (all of the policyholders get this for free with their policy).&lt;/p&gt;
+
+&lt;p&gt;When building the notifications feature, it led me to think about communication in cybersecurity, and specifically how an issue should not have just one way of being communicated to the end user, the reason for that is because you might have different cases of end users using your platform.&lt;/p&gt;
+
+&lt;p&gt;Communication is a soft skill that I would put at the top of the most important to have if you are in infosec/cybersecurity, finding the coolest vulnerability but then not being able to explain its impact to the users affected, makes it harder for organizations to evolve and improve their security level.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/ijdGz3FeIOw&quot;&gt;Watch this talk by the master of communication in infosec, Javvad!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rdp---the-gift-that-keeps-on-giving&quot;&gt;RDP - The gift that keeps on giving&lt;/h2&gt;
+
+&lt;p&gt;We don’t like RDP. Don’t believe me ?&lt;/p&gt;
+
+&lt;p&gt;See what happens when you visit: &lt;a href=&quot;justsaynotordp.com&quot;&gt;justsaynotordp.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My colleague Jeremy Turner wrote an excellent blogpost about RDP, what it is and why we don’t like it.&lt;/p&gt;
+
+&lt;p&gt;The short version of the story is that RDP is regularly attacked, we’ve seen it present in ransomware cases and at a very basic level, even the mere presence of RDP is believed to act as a signal of opportunity for ransomware.&lt;/p&gt;
+
+&lt;p&gt;We will come back to RDP in a second…&lt;/p&gt;
+
+&lt;h2 id=&quot;enter-personas&quot;&gt;Enter personas…&lt;/h2&gt;
+
+&lt;p&gt;As mentioned on the Coalition site, we sell (at this point in time!) insurance to companies with revenue from $0 up to $1 Billion. As you can imagine, we have different types of what would typically be considered “end-users”.&lt;/p&gt;
+
+&lt;p&gt;These “end-users”, as you can understand will have different levels of IT knowledge, which immediately poses a super interesting challenge for us.&lt;/p&gt;
+
+&lt;p&gt;If I look at the range of people that use BinaryEdge (Coalition’s Security Platform) and our policyholders,my range of end users looks something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Business Owner&lt;/li&gt;
+  &lt;li&gt;CEO&lt;/li&gt;
+  &lt;li&gt;CFO&lt;/li&gt;
+  &lt;li&gt;CISO&lt;/li&gt;
+  &lt;li&gt;IT Person&lt;/li&gt;
+  &lt;li&gt;Security Staff&lt;/li&gt;
+  &lt;li&gt;Developer&lt;/li&gt;
+  &lt;li&gt;Consultants&lt;/li&gt;
+  &lt;li&gt;etc…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So for the sake of this post lets reduce all these types of individuals into 2 groups:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Non-Technical / Money people&lt;/strong&gt;: CEO,CFO, Business owner&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Technical people&lt;/strong&gt;: IT Person, Security Staff, Developer, Consultant&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What we need to work out next is personas to represent each of these groups of people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Personas&lt;/strong&gt; are fictional characters created to represent a type of user that might use or be a target of your product. They are used across multiple industries to assist in solving problems.&lt;/p&gt;
+
+&lt;p&gt;As an example in a previous work-life, I used personas when working at a bank in their innovation team.  As part of our internal process we used the &lt;a href=&quot;https://www.designabetterbusiness.tools/tools/business-model-canvas?utm_source=dbb&amp;amp;utm_medium=link&amp;amp;utm_campaign=Business%20Model%20Canvas&amp;amp;utm_content=title&quot;&gt;business model canvas&lt;/a&gt; but also the &lt;a href=&quot;https://www.designabetterbusiness.tools/tools/persona-canvas&quot;&gt;persona canvas&lt;/a&gt; to better understand the people we were solving problems for.&lt;/p&gt;
+
+&lt;p&gt;I often find my self going back to old books and tools from my banking innovation days.&lt;/p&gt;
+
+&lt;p&gt;So what do our persona canvas look like for these two groups and how do they impact our cybersecurity notifications?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-Technical/Money People&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/persona-money.jpg&quot; alt=&quot;Persona-Money&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical people&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/persona-tech.jpg&quot; alt=&quot;Persona-Tech&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now we can use these two persona canvas to drive how we would describe the RDP issue to the two target groups.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;non-technical-notification&quot;&gt;Non-Technical notification&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Subject/Title&lt;/strong&gt;: Security issue discovered in a device associated with your organization.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Body/Content&lt;/strong&gt;: When scanning the devices associated with your organization, we detected the usage of a service that we see being attacked by hackers and used to deploy malicious software that can result in a ransom or data loss. We are here to help.&lt;/p&gt;
+
+&lt;p&gt;We have already forwarded a full technical debrief to the associated technical contact of your account.&lt;/p&gt;
+
+&lt;p&gt;Your devices will continue to be scanned on a daily basis, and upon detection of correction of this finding you will receive a separate notification letting you know this has been addressed.&lt;/p&gt;
+
+&lt;p&gt;For your own reference and in case you want to follow up your with your technical contact, the issue discovered has been assigned the code &lt;strong&gt;XYZ-123&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a reminder this type of issue is covered by your policy with the number 123456 and the technical contact on file is techdoe@acme.org.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;technical-notification&quot;&gt;Technical notification&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Subject/Title&lt;/strong&gt;: Critical security issue detected in IP address associated with your organization&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Body/Content&lt;/strong&gt;: When scanning the devices associated with your organization, we detected the IP address XXX.XXX.XXX.XXX (with associated DNS subdomain xyz.acme.org) running RDP on port 3389.&lt;/p&gt;
+
+&lt;p&gt;RDP is a service that we have seen as one of the most attacked and used vectors of compromise that lead to deployment of ransomware. For more information about our findings on ransomware please visit &lt;a href=&quot;https://justsaynotordp.com&quot;&gt;justsaynotordp.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The associated remediation for this type of issue is as follows:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We advise that RDP is not directly exposed to the internet. RDP should only be accessible via VPN and should be completely firewalled from direct internet access, even if using NLA.&lt;/p&gt;
+
+&lt;p&gt;Alternatives to RDP can be found in &lt;a href=&quot;https://www.logmein.com&quot;&gt;Logmein&lt;/a&gt; and &lt;a href=&quot;https://www.teamviewer.com/en/&quot;&gt;Teamviewer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A high level overview has been sent to the business contact associated with your account and the ference code &lt;strong&gt;XYZ-123&lt;/strong&gt; was attributed to this finding.&lt;/p&gt;
+
+&lt;p&gt;Your assets will continue to be scanned on a daily basis, and upon detection of correction of this finding you will receive a separate notification letting you know this has been addressed. You can proactively login into the &lt;a href=&quot;https://asm.binaryedge.io&quot;&gt;Attack Surface Management&lt;/a&gt; platform and trigger a scan after having fixed the associated issue.&lt;/p&gt;
+
+&lt;p&gt;If you feel you might need help addressing this issue or that it might be some sort of erroneous information please contact us on security@bla.com.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;analysing-notifications&quot;&gt;Analysing notifications&lt;/h2&gt;
+
+&lt;p&gt;If we compare the two notifications we can easily see how they differ.&lt;/p&gt;
+
+&lt;p&gt;The technical notification contains a lot of technical indicators such as IP address and the port running, and even that it is a critical security issue, while the non-technical notification avoids mentioning technical jargon that would not be useful for the individual, while providing him with a uniquely generated code in case he wants to follow up internally.&lt;/p&gt;
+
+&lt;p&gt;We give the technical individual clear guidance of what the issue is, where it was found, and how he can remediate and check that remediation was correctly applied. We also provide a contact in case he needs further help.&lt;/p&gt;
+
+&lt;p&gt;For the non-technical notification the focus is on making sure that the user is aware, but that there is no need to panic, we tell him there is an issue, but that we have notified the people that can fix it, that he is covered under the current policy and that we are there to help. We avoid mentioning the word “critical” as to not cause panic (which is a feeling that tends to be unhelpful when it comes to security issues).&lt;/p&gt;
+
+&lt;p&gt;In both situations we presented a message that focused on a sensitive issue that affected their &lt;strong&gt;needs&lt;/strong&gt; but always with messaging adapted and focused on helping and giving the different users explanations that were phrased in a way that didn’t feed into their &lt;strong&gt;fears, headaches&lt;/strong&gt; or &lt;strong&gt;negative trends&lt;/strong&gt; and while being on their level of technical understanding.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;We’ve seen how we can use personas to drive communication and product decisions that will benefit our users. I intend to find more tools similar to these that can help me do a better job, build better products and focus on my end users.&lt;/p&gt;
+
+&lt;p&gt;These tools help structure my mind and help me think and one of the best things about my job is that I get paid to think.&lt;/p&gt;
+
+&lt;p&gt;Think about how to talk to our end customers about complex technical issues, how to break it down for them in a way they understand the impact this can have on their organization and I get to think about how a customer might interact with our products and features.&lt;/p&gt;
+
+&lt;p&gt;The other best thing about my job? The team around me. I can’t do any of this without them.&lt;/p&gt;
+
+&lt;p&gt;My team of developers who is never afraid to build, what sometimes might sound like crazy experiments that I ask them, when trying to find alternative ways for users to interact with our data and platform more easily, like the example you see in the following image, where we built a bot that can give you responses about technological and security findings based on a natural language processing interaction:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/alfred.jpg&quot; alt=&quot;alfred&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I get to collaborate with people like Karl Schultz, who does amazing customer interviews and really digs deep into building personas that help us understand who our customers are, their needs and desires, and how to build the most customer centric produts and reports, or Ashley Slate, that has an enviable customer obsession on how well images and the message they are meant to transmit fit into the overall work that we are doing. (Don’t believe me? &lt;a href=&quot;https://www.coalitioninc.com/blog/coalition-releases-new-2020-cyber-insurance-claims-report&quot;&gt;Download&lt;/a&gt; the claims report we just published, pay attention to the art work.)&lt;/p&gt;
+
+&lt;h2 id=&quot;hiring&quot;&gt;Hiring&lt;/h2&gt;
+&lt;p&gt;If this sort of problem interests you, or you would like to join a team that is building the future of cyberinsurance, while tackling the &lt;a href=&quot;https://www.coalitioninc.com/blog/why-we-acquired-binaryedge&quot;&gt;“small” task of solving cyber risk&lt;/a&gt;, we are hiring across multiple positions, teams and geos. Check out our current open jobs &lt;a href=&quot;https://jobs.lever.co/coalitioninc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="cybersecurity" /><summary type="html">Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.</summary></entry><entry><title type="html">Things I wish I knew before coming to infosec.</title><link href="http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec.html" rel="alternate" type="text/html" title="Things I wish I knew before coming to infosec." /><published>2019-10-30T01:56:18+01:00</published><updated>2019-10-30T01:56:18+01:00</updated><id>http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec</id><content type="html" xml:base="http://localhost:4000/infosec/cybersecurity/2019/10/30/thingsiwishiknewinfosec.html">&lt;p&gt;Over the last 12 years, I’ve worked in multiple roles in Information Security, from being a pentester to analyst, leading an infosec team responsible for a multi-million dollar company to running my own company in infosec, and there a couple of learnings that I believe, if I had known before coming to infosec would have led to two important outcomes:&lt;/p&gt;
 
 &lt;p&gt;1 - Me having an easier life in infosec, and making life easier on others that I was working with/for.&lt;/p&gt;
 
