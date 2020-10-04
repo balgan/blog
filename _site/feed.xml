@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-16T18:07:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">2 Users, 1 security notification</title><link href="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html" rel="alternate" type="text/html" title="2 Users, 1 security notification" /><published>2020-09-13T02:56:18+02:00</published><updated>2020-09-13T02:56:18+02:00</updated><id>http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations</id><content type="html" xml:base="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html">&lt;p&gt;Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-05T01:57:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">Quick guide on remote engineering teams</title><link href="http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams.html" rel="alternate" type="text/html" title="Quick guide on remote engineering teams" /><published>2020-09-21T02:56:18+02:00</published><updated>2020-09-21T02:56:18+02:00</updated><id>http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams</id><content type="html" xml:base="http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams.html">&lt;p&gt;As I write this post I have now managed a fully remote team for more than 6 years.&lt;/p&gt;
+
+&lt;p&gt;Due to the current circumstances that exist in the world, lots of organizations are now dealing with teams being fully remote without being prepared for it, and Im having friends reaching out to me for advice on how to manage their remote teams, how to keep them happy and engaged and productiviy high.&lt;/p&gt;
+
+&lt;p&gt;On this blogpost I will &lt;strong&gt;not&lt;/strong&gt; give advice but rather write down what works for MY team. It’s up to you to figure out if it works for yours or adapt it in a way that works for you.&lt;/p&gt;
+
+&lt;p&gt;My current team consists of:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Me - Switzerland&lt;/li&gt;
+  &lt;li&gt;8 people in Portugal&lt;/li&gt;
+  &lt;li&gt;2 people in the USA&lt;/li&gt;
+  &lt;li&gt;1 person in Turkey&lt;/li&gt;
+  &lt;li&gt;1 person in Canada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;recruiting&quot;&gt;Recruiting&lt;/h1&gt;
+
+&lt;p&gt;If you know you’re going to be building a fully remote team, you need to set standards on recruiting people from day one. Being remote isn’t for everyone and you need to make sure you’re testing for this while interviewing candidates. For us at Binaryedge I always knew I wanted a fully remote team, so I worked with that assumption from the beginning.&lt;/p&gt;
+
+&lt;p&gt;In my experience someone that is prepared to work remotely, is extremely strong on the following skills:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Time management and structuring&lt;/strong&gt; - I am the type of manager that does not control what time you got in and got out. We focus on tasks, and come to an agreement on what we believe is a succesful set of tasks to be delivered in a certain amount of time. Being able to plan and tell me yes/no to the tasks am presenting you and then execute them on time is critical for the success of the contribution of each IC and to the work of the team overall.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Asynchronous communication&lt;/strong&gt; - When I leave you a message I do not expect instant response, I ask what I need to ask and you will answer when appropriate. You should expect the same from me and from your colleagues. We span across multiple timezones, with people that have families they should be spending time with or having out-of-work activities they enjoy, and you need to trust they will reply as soon as they feel appropriate.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Maturity in interpersonal relationships&lt;/strong&gt; - When you are unhappy with a colleague, you do not get in a mood, you do not pout or act out, you message that person and say “hey I was not happy about X can we talk?”, if that doesn’t work you immediately reach out to your manager and among the three you solve the conflict.&lt;/p&gt;
+
+    &lt;p&gt;When discussing projects, you need to have your opinions formulated well and arguments prepared with data to back it up, this will make it easier to have a factual argument rather than one just for the sake of.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some questions that I have used to help me recruit that act as checks for these skills are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;“If you are the tech lead of a project, and during project planning one of your team members disagrees with a decision you made, how do you handle that?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“If a colleague was rude to another and you noticed that how do you handle that situation?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“How do you currently structure your work hours?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“if your manager asks you to plan how many tasks you can take from a list presented, how do you plan for it and decide how many tasks you are capable of executing?”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finding the right people for a remote team takes a long longer than normal hiring. The other part I’ve found to be a little bit tricky is Junior onboarding. You need to have a really strong foundation of processes and people in place, before you gain the capability to successfuly bring on board juniors.&lt;/p&gt;
+
+&lt;h1 id=&quot;team-and-project-managementplanning&quot;&gt;Team and project management/planning&lt;/h1&gt;
+
+&lt;p&gt;When deciding what we are going to work on, no single person makes a decision (me included).&lt;/p&gt;
+
+&lt;h3 id=&quot;at-the-beginning-of-the-year&quot;&gt;&lt;strong&gt;At the beginning of the year&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;I sit with the leadership team, understand the business goals and accomplishments for the year, and agree on high level deliverables for the team. Then I bring those back to the team and we define our year roadmap broken down by quarter.&lt;/p&gt;
+
+&lt;h3 id=&quot;at-the-beginning-of-each-quarter&quot;&gt;&lt;strong&gt;At the beginning of each quarter&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We look at the deliverables for the upcoming quarter and define the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A tech lead per project&lt;/strong&gt; - this is a person that is the point of contact for this project - Its important that when questions arise about the project not every engineer is distracted with random questions, so this person is the go-to. This person is responsible for keeping the project going, the tickets and board organized, and keeping overall quality across the project. This position rotates across different people over the different quarters so that everyone can gain more experience on management, leadership, project planning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Team distribution&lt;/strong&gt; - some of us have skills that fit certain projects better. Is this a mobile app ? only some of the frontend engineers can do react native. Is this a project that requires knowledge of cybersecurity ? Not everyone in the team has it either. We all agree, together on what the optimal team distribution looks like.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Quarter review&lt;/strong&gt; - We review previous quarter, think about which tech debt we want to repay in the following quarter and what processes do we need to change/improve in the upcoming quarter.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;every-week&quot;&gt;&lt;strong&gt;Every week&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We have 3 meetings per week:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monday&lt;/strong&gt; (30 minutes) - Check across all projects that things are aligned and that everyone knows what they are doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wednesday&lt;/strong&gt; (1 min per person) - Quick mid week updates, in case anyone is blocked, quick action team is put together to help.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Friday&lt;/strong&gt; (1 hour) - Retrospective of the week (what went well and what went wrong), thinking about following week and if projects are still on time and tasking distribution/order still makes sense.&lt;/p&gt;
+
+&lt;h3 id=&quot;11&quot;&gt;&lt;strong&gt;1:1&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;One-to-one’s are currently held once every 2 weeks, in those we discuss how the person is feeling about the team, work, and life in general. We go over any issues the team member wants to raise, and&lt;/p&gt;
+
+&lt;h3 id=&quot;tooling&quot;&gt;&lt;strong&gt;Tooling&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Each tech lead is responsible for at the beginning of the quarter put together an Epic with description of the project and all tasks broken down and assigned as dependencies of that project.&lt;/p&gt;
+
+&lt;p&gt;The second artifact we build per project is the description page which needs to contain:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Title of project&lt;/li&gt;
+  &lt;li&gt;Description&lt;/li&gt;
+  &lt;li&gt;Why are we doing this&lt;/li&gt;
+  &lt;li&gt;What are the metrics used to measure success of project&lt;/li&gt;
+  &lt;li&gt;Repos associated&lt;/li&gt;
+  &lt;li&gt;Documentation&lt;/li&gt;
+  &lt;li&gt;Tech lead&lt;/li&gt;
+  &lt;li&gt;Team&lt;/li&gt;
+  &lt;li&gt;Epic associated with project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our board looks super simple, and consists of the following status:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;backlog&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;to do&lt;/strong&gt; - things that are going to be worked on this week/sprint&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;doing&lt;/strong&gt; - currently being worked on&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;done&lt;/strong&gt; - work is finished&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;deprecrated&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;keeping-team-engaged-and-happy&quot;&gt;Keeping team engaged and happy&lt;/h1&gt;
+
+&lt;h2 id=&quot;game-night&quot;&gt;Game night&lt;/h2&gt;
+&lt;p&gt;Once a quarter we do a team game night. I organize some type of game, we book a call with everyone and play some games together, either competing against each other or working together as smaller teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/team.JPG&quot; alt=&quot;team&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the games that work well for remote teams:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Quiz night&lt;/strong&gt; - &lt;a href=&quot;https://ahaslides.com/&quot;&gt;ahaslides&lt;/a&gt; works well to make a quiz night with points&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Guess who&lt;/strong&gt; - have people in the team write facts about themselves and then have others try to guess who it is based on the fact.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://skribbl.io/&quot;&gt;Skribbl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.geoguessr.com/&quot;&gt;Geoguesser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jackboxgames.com/party-pack/&quot;&gt;Jackbox Party Games&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;discord--alternative-im&quot;&gt;Discord / Alternative IM&lt;/h2&gt;
+
+&lt;p&gt;If in your day to day use slack, have an alternative IM system where the team can just chat about non works stuff. For us, we have a discord, we logon at night, play some games together, share a TON of GIFs, etc…&lt;/p&gt;
+
+&lt;h2 id=&quot;moon-shot-projects&quot;&gt;Moon shot projects&lt;/h2&gt;
+
+&lt;p&gt;On our team at the beginning of the quarter we define one or two moonshot projects, these are projects that involve a strong research component, and that while they can and should contribute to business gains, they are not as direct as the normal busines defined goals.&lt;/p&gt;
+
+&lt;p&gt;We do put some restraints around our moonshot projects, typically the rules are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can only last a quarter&lt;/li&gt;
+  &lt;li&gt;People only work on it friday afternoons&lt;/li&gt;
+  &lt;li&gt;Must still be a potential solution to an existing problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An example project:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Problem : We have a lot of business people that want to easily understand the security state of a company, but aren’t technical enough to read all of our technical data or launch a scan.&lt;/li&gt;
+  &lt;li&gt;Potential solution: an NLP slack bot that reads requests in english and writes/describes technical findings in  a way that is easy to read.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a practical example of something we built as seen in the following screenshot:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/alfred.jpg&quot; alt=&quot;alfred&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;offsites&quot;&gt;Offsites&lt;/h1&gt;
+
+&lt;p&gt;Being remote is fun, and lots of people enjoy it, but bringing people together at least twice a year is something that we have found also works extremely well for team morale. We typically pick some conferences, we even deliver some talks and end up booking between 3-5 days for all of us to hang out, and just chat or potentially architect new products (no coding).&lt;/p&gt;
+
+&lt;h1 id=&quot;last-remarks&quot;&gt;Last remarks&lt;/h1&gt;
+
+&lt;p&gt;There are a couple more things I feel are important to mention:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Velocity on development does tend to take a little bit longer at the beginning while the team is figuring out each others rythms.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Not everyone is prepared for remote work, you will make mistakes and unfortunately this comes with a cost as well (people will leave because they don’t like it, or they don’t perform to expectations and you might need to fire them).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Isolation can take a hit on people after a while, make sure you are keeping tabs on the mental state of people in your team during 1:1s and to make sure you are supporting them in the best way that you can.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="management" /><category term="remote" /><category term="engineering" /><summary type="html">As I write this post I have now managed a fully remote team for more than 6 years.</summary></entry><entry><title type="html">2 Users, 1 security notification</title><link href="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html" rel="alternate" type="text/html" title="2 Users, 1 security notification" /><published>2020-09-13T02:56:18+02:00</published><updated>2020-09-13T02:56:18+02:00</updated><id>http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations</id><content type="html" xml:base="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html">&lt;p&gt;Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.&lt;/p&gt;
 
 &lt;p&gt;We continued to build features into the &lt;a href=&quot;https://app.binaryedge.io&quot;&gt;scanning platform&lt;/a&gt; but also a new product &lt;a href=&quot;https://asm.binaryedge.io&quot;&gt;Attack Surface Monitoring.&lt;/a&gt;&lt;/p&gt;
 
