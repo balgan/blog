@@ -158,3 +158,6 @@ There are a couple more things I feel are important to mention:
 * Not everyone is prepared for remote work, you will make mistakes and unfortunately this comes with a cost as well (people will leave because they don't like it, or they don't perform to expectations and you might need to fire them).
 
 * Isolation can take a hit on people after a while, make sure you are keeping tabs on the mental state of people in your team during 1:1s and to make sure you are supporting them in the best way that you can. 
+
+
+# [We're hiring!](https://jobs.lever.co/coalitioninc)
