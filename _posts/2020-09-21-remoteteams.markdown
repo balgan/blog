@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick guide on remote engineering teams"
-date:   2020-09-21 02:56:18 +0200
+date:   2020-10-04 02:56:18 +0200
 categories: management remote engineering
 ---
 
@@ -147,6 +147,7 @@ This is a practical example of something we built as seen in the following scree
 ### Offsites
 
 Being remote is fun, and lots of people enjoy it, but bringing people together at least twice a year is something that we have found also works extremely well for team morale. We typically pick some conferences, we even deliver some talks and end up booking between 3-5 days for all of us to hang out, and just chat or potentially architect new products (no coding).
+
 
 # Last remarks
 
