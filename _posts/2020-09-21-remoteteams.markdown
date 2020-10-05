@@ -50,11 +50,11 @@ Finding the right people for a remote team takes a long longer than normal hirin
 
 When deciding what we are going to work on, no single person makes a decision (me included).
 
-### **At the beginning of the year**
+### At the beginning of the year
 
  I sit with the leadership team, understand the business goals and accomplishments for the year, and agree on high level deliverables for the team. Then I bring those back to the team and we define our year roadmap broken down by quarter.
 
-### **At the beginning of each quarter**
+### At the beginning of each quarter
 
 We look at the deliverables for the upcoming quarter and define the following:
 
@@ -64,7 +64,7 @@ We look at the deliverables for the upcoming quarter and define the following:
 
 * **Quarter review** - We review previous quarter, think about which tech debt we want to repay in the following quarter and what processes do we need to change/improve in the upcoming quarter.
 
-### **Every week**
+### Every week
 
 We have 3 meetings per week:
 
@@ -107,7 +107,7 @@ Our board looks super simple, and consists of the following status:
 # Keeping team engaged and happy
 
 
-## Game night
+### Game night
 Once a quarter we do a team game night. I organize some type of game, we book a call with everyone and play some games together, either competing against each other or working together as smaller teams.
 
 ![team](/assets/img/team.JPG)
@@ -121,11 +121,11 @@ Some of the games that work well for remote teams:
 * [Geoguesser](https://www.geoguessr.com/)
 * [Jackbox Party Games](https://www.jackboxgames.com/party-pack/)
 
-## Discord / Alternative IM
+### Discord / Alternative IM
 
 If in your day to day use slack, have an alternative IM system where the team can just chat about non works stuff. For us, we have a discord, we logon at night, play some games together, share a TON of GIFs, etc...
 
-## Moon shot projects
+### Moon shot projects
 
 On our team at the beginning of the quarter we define one or two moonshot projects, these are projects that involve a strong research component, and that while they can and should contribute to business gains, they are not as direct as the normal busines defined goals. 
 
@@ -144,7 +144,7 @@ This is a practical example of something we built as seen in the following scree
 
 ![alfred](/assets/img/alfred.jpg)
 
-# Offsites
+### Offsites
 
 Being remote is fun, and lots of people enjoy it, but bringing people together at least twice a year is something that we have found also works extremely well for team morale. We typically pick some conferences, we even deliver some talks and end up booking between 3-5 days for all of us to hang out, and just chat or potentially architect new products (no coding).
 
