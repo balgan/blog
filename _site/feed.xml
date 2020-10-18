@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-05T01:57:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">Quick guide on remote engineering teams</title><link href="http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams.html" rel="alternate" type="text/html" title="Quick guide on remote engineering teams" /><published>2020-09-21T02:56:18+02:00</published><updated>2020-09-21T02:56:18+02:00</updated><id>http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams</id><content type="html" xml:base="http://localhost:4000/management/remote/engineering/2020/09/21/remoteteams.html">&lt;p&gt;As I write this post I have now managed a fully remote team for more than 6 years.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-19T01:49:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">World of Balgan</title><subtitle>Welcome to my blog where I write about some of my interests and findings.</subtitle><entry><title type="html">It has been one year since my company was acquired</title><link href="http://localhost:4000/startup/management/acquisition/2020/10/18/1yearpassed.html" rel="alternate" type="text/html" title="It has been one year since my company was acquired" /><published>2020-10-18T02:56:18+02:00</published><updated>2020-10-18T02:56:18+02:00</updated><id>http://localhost:4000/startup/management/acquisition/2020/10/18/1yearpassed</id><content type="html" xml:base="http://localhost:4000/startup/management/acquisition/2020/10/18/1yearpassed.html">&lt;p&gt;&lt;img src=&quot;/assets/img/tiago.jpg&quot; alt=&quot;tiago&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This photo was me a year ago to the day, selling the company I founded five years before.&lt;/p&gt;
+
+&lt;p&gt;I thought I’d write some notes about the process and the story.&lt;/p&gt;
+
+&lt;h1 id=&quot;opening-a-startup&quot;&gt;Opening a startup&lt;/h1&gt;
+
+&lt;p&gt;Until today, there has never been anything more challenging in my life that I have done than running BinaryEdge.&lt;/p&gt;
+
+&lt;p&gt;I moved to Switzerland 7 years ago and opened BinaryEdge a little over a year after getting here.&lt;/p&gt;
+
+&lt;p&gt;I still remember sitting down with my friend Pekka Jackli and telling him: “I want to open a company that does internet scanning, but I don’t know how to do it. Can you help me ?” (He jumped immediately at the challenge and ended up being a co-founder.)&lt;/p&gt;
+
+&lt;p&gt;I had previously founded a security research group (called PTCoreSec) that played around with the idea of internet scanning, so I thought it was time to pick that up again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ptcoresec.png&quot; alt=&quot;ptcoresec&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To make sure everyone understands the situation I was in, I decided to open BinaryEdge:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In a country I had just arrived at (1 year is not enough to adapt)&lt;/li&gt;
+  &lt;li&gt;In a country where I do not speak any of the native languages.&lt;/li&gt;
+  &lt;li&gt;Never having gone to business school or read a single business book&lt;/li&gt;
+  &lt;li&gt;Not having any close friends or people I could go to in the country that could provide advice on running a startup&lt;/li&gt;
+  &lt;li&gt;Having my family to take care of as we moved here for a job&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some might wonder why on earth, I would take on this challenge under these conditions instead of trying to make them more optimal first. But here I was just a few years after beating cancer and being stuck in a bed for one year. It had left me with this weird feeling that I had just wasted that one year of my life doing “nothing”, so even if the situation wasn’t perfect, my energy was at an all-time high, if cancer couldn’t stop me, well nothing could.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/me.jpg&quot; alt=&quot;fuck cancer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PS: Fuck Cancer!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After I spoke with Pekka, we immediately got started figuring out how we would register the company and how we would get some funding.&lt;/p&gt;
+
+&lt;p&gt;Pekka introduced me to Till Spillmann, a lawyer-entrepreneur that I had to convince to invest in something that didn’t even exist back then other than in the format of a prototype and PowerPoint!&lt;/p&gt;
+
+&lt;p&gt;Sitting down with Till, I showed him evidence that we were doing something different and the problems we wanted to solve (these have changed over the years, and we have slowly refined some of our approaches); I convinced Till to be the first official investor.&lt;/p&gt;
+
+&lt;p&gt;This was a great win for team BinaryEdge. Till brought what is typically called smart-money. He brought the needed capital that allowed us to get a small group of developers to start putting together the platform’s first version and all his knowledge and resources as a lawyer.&lt;/p&gt;
+
+&lt;p&gt;We started building a better internet scanning platform, improving the types of data we collect and onboard new enterprise customers. (I will go into more in-depth details of the ups and downs of this in a future post!)&lt;/p&gt;
+
+&lt;p&gt;At some point, I remember sitting down with &lt;a href=&quot;https://www.twitter.com/halvarflake&quot;&gt;Thomas Dullien&lt;/a&gt;, and asking him for some advice, which ended up with him being the next and last investor ever into BinaryEdge. To this day, bringing Thomas onboard is one of my proudest achievements as there has been no one that has given me as good help or advice as he has. He had already gone through the experience of opening a startup and selling it, so he was the one person that just “got me” and all the headaches and complications I was going through. If you can get Thomas as a friend, investor, or advisor, do it. He is a wonderful human being!&lt;/p&gt;
+
+&lt;p&gt;During most of the time of BinaryEdge, I always had a second full-time job. The money BinaryEdge generated was to grow BinaryEdge. I took a salary at the beginning to keep things on track and going but then ended up feeling like the money could be better used to grow the team faster and that I could just deal with having two jobs.&lt;/p&gt;
+
+&lt;h1 id=&quot;in-comes-coalition&quot;&gt;In comes Coalition&lt;/h1&gt;
+
+&lt;p&gt;From the moment I met Joshua Motta, I knew joining Coalition to go work with him in some capacity was in my future. When he initially floated the idea by me of Coalition acquiring BinaryEdge (Coalition had already been a customer for a while), we were in a situation where we had the option to raise a funding round or get acquired (by Coalition or 2 other parties that had shown interest), and I had to make a decision.&lt;/p&gt;
+
+&lt;p&gt;Our objective was to go down the cyber-insurance path and build a platform to sell cyber-insurance if we had fundraised. This was known to most people as we had already started blogging about it. Cyber insurance is a type of business I was a big believer in from the first day I heard about it, not how the market predominantly currently works but rather the revolutionary way we do it at Coalition and that we wanted to do ourselves.&lt;/p&gt;
+
+&lt;p&gt;We had a few other acquisition opportunities on the table from current customers; however, I did not believe we would have been a good fit. I felt strongly I needed to believe in the company that was acquiring us and their business model.&lt;/p&gt;
+
+&lt;p&gt;After about two months of the initial conversation, Joshua flew to Zürich and sat down with me Pekka and Till, while Thomas joined remotely. He explained who Coalition was, why they wanted to acquire us, and &lt;a href=&quot;https://www.coalitioninc.com/blog/why-we-acquired-binaryedge&quot;&gt;the secret master plan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The fit was perfect, the desire was there by both parties, and with that, we triggered the next phase, which brought the hard part of the process—due diligence. Looking at how much ahead of the market Coalition was business wise made it an easy decision on what I wanted for BinaryEdge.&lt;/p&gt;
+
+&lt;p&gt;For about two months, a team of people and lawyers from Coalition passed a comb over every document I signed, every decision I made and asked a LOT of questions. To say that this is a stressful situation is to put it lightly.&lt;/p&gt;
+
+&lt;p&gt;Having an M &amp;amp; A Lawyer in the team helped a lot as he knew this process like the back of his hand, which enabled us to get through the diligence at a fantastic pace (compared to some of the stories I have read before).&lt;/p&gt;
+
+&lt;p&gt;As it is now public, we ended up being acquired, and we joined the Coalition team; and a few days after the first photo at the beginning of this post, we got on a flight to the USA for the first offsite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/be-us.png&quot; alt=&quot;offsite&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/be-coalition.jpg&quot; alt=&quot;offsite2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what do we do these days?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I became the General Manager for Customer Security at Coalition. I run the BinaryEdge Enterprise business and build tools to protect our policyholders and bridge the collection done by our team with the underwriting, data, and security team at Coalition.&lt;/p&gt;
+
+&lt;p&gt;Florentino flourished into a fantastic engineering manager and runs the engineering team associated with the scanning engine (the team has grown quite a bit since). It has been a privilege to see him evolve over the years.&lt;/p&gt;
+
+&lt;p&gt;Tom works with me on growing our enterprise business  (If I were to say Florentino is my right hand, Tom would be my left) while also doing a lot with me on the product management and planning.&lt;/p&gt;
+
+&lt;p&gt;Ana continues her career as a data scientist (she is one of the people in my life I admire the most, thinking about how before BinaryEdge she had never written a single line of code to being the amazing data scientist she is today just makes me proud).&lt;/p&gt;
+
+&lt;p&gt;Marco was a dad and moved to the data science team as a data engineer to help with faster integration of our data. He was the best CTO one could have asked for and just want BinaryEdge needed.&lt;/p&gt;
+
+&lt;p&gt;This team is what made all of this possible, and I will forever be thankful to them for everything they did. They made my dream theirs, and I will forever be indebted to them for that.&lt;/p&gt;
+
+&lt;h2 id=&quot;learnings&quot;&gt;Learnings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Opening a startup forces you to learn specific skills, fast, that otherwise you probably wouldn’t care about. Invoicing, accounting, planning, dealing with banks, customers, partnerships, etc…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After you go through it, a lot of things become more comfortable in life. To get to the point of where you’re feeling pressure or panic takes a lot more than it did before because while you’re running your startup, it will happen that you will go through those feelings, and you will have to figure out how to solve them or get out of those situations (often on your own!).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Going from being someone’s employer to employing people is a HUGE shift in your life. Having people you’re responsible for and salaries to pay or having investors who gave you money and that you need to show hope that they will get a return is a level of responsibility that I am not sure anything else in life can prepare you for. (Speaking on a phone with a customer that is &amp;gt;10 days late with a payment while having to be polite is one of the hardest things you might ever do).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working on something you founded makes it that the highs are just acceptable but the lows are really deep. Use the wins as small as they are to come out from low moments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running a remote team is hard. Back then there weren’t really any founder resources on how to do it properly and we had to figure out a lot on our own.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The entrepreneur life is not as glamorous as a lot of the blogs, youtubers and others make it seem. It is hard, the grind to close customers and get paid is long (sometimes months long if you’re into enterprise software business) and you need to convince a bunch of strangers to join you on this crusade that is your vision as part of your team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;future&quot;&gt;Future&lt;/h1&gt;
+
+&lt;p&gt;I’ve had a few people ask me what “comes next”, if I’m looking for investment for my next startup or just the general “Are you ever opening a startup again?”.&lt;/p&gt;
+
+&lt;p&gt;My focus is on growing and executing a vision that I get to have the honor of building and planning for, so what is next is Coalition.&lt;/p&gt;
+
+&lt;p&gt;I love my job, if you’ve interviewed with me lately you will have heard me say “I have the best job in the world” and the reason for that is that I still get to build &lt;a href=&quot;https://asm.binaryedge.io&quot;&gt;amazing products&lt;/a&gt; while working with a team that has more than doubled in size and that makes it an absolute pleasure to wake up each morning and get to work.&lt;/p&gt;
+
+&lt;p&gt;My team is everthing for me, all the cool stuff I get to often present to the world or showcase is only possible thanks to them, and even if they weren’t part of the past they sure as hell are the future. We have managed to put an interesting group of individuals that is passionate, responsible, reliable, and proud of everything they build. I couldn’t have asked for a better team.&lt;/p&gt;
+
+&lt;p&gt;Will I open up a startup again?&lt;/p&gt;
+
+&lt;p&gt;Sure I will (I’ve known for a few years now that I wanted to do something in Bioinformatics), but not until I’m finished with what I set out to do, which is build the most dominant cyberinsurance provider in the world, and we are just 1% there.&lt;/p&gt;
+
+&lt;h1 id=&quot;were-hiring&quot;&gt;&lt;a href=&quot;https://jobs.lever.co/coalitioninc&quot;&gt;We’re hiring!&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cbe.png&quot; alt=&quot;cbe&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="startup" /><category term="management" /><category term="acquisition" /><summary type="html"></summary></entry><entry><title type="html">Quick guide on remote engineering teams</title><link href="http://localhost:4000/management/remote/engineering/2020/10/04/remoteteams.html" rel="alternate" type="text/html" title="Quick guide on remote engineering teams" /><published>2020-10-04T02:56:18+02:00</published><updated>2020-10-04T02:56:18+02:00</updated><id>http://localhost:4000/management/remote/engineering/2020/10/04/remoteteams</id><content type="html" xml:base="http://localhost:4000/management/remote/engineering/2020/10/04/remoteteams.html">&lt;p&gt;As I write this post I have now managed a fully remote team for more than 6 years.&lt;/p&gt;
 
 &lt;p&gt;Due to the current circumstances that exist in the world, lots of organizations are now dealing with teams being fully remote without being prepared for it, and Im having friends reaching out to me for advice on how to manage their remote teams, how to keep them happy and engaged and productiviy high.&lt;/p&gt;
 
@@ -56,11 +177,11 @@
 
 &lt;p&gt;When deciding what we are going to work on, no single person makes a decision (me included).&lt;/p&gt;
 
-&lt;h3 id=&quot;at-the-beginning-of-the-year&quot;&gt;&lt;strong&gt;At the beginning of the year&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;at-the-beginning-of-the-year&quot;&gt;At the beginning of the year&lt;/h3&gt;
 
 &lt;p&gt;I sit with the leadership team, understand the business goals and accomplishments for the year, and agree on high level deliverables for the team. Then I bring those back to the team and we define our year roadmap broken down by quarter.&lt;/p&gt;
 
-&lt;h3 id=&quot;at-the-beginning-of-each-quarter&quot;&gt;&lt;strong&gt;At the beginning of each quarter&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;at-the-beginning-of-each-quarter&quot;&gt;At the beginning of each quarter&lt;/h3&gt;
 
 &lt;p&gt;We look at the deliverables for the upcoming quarter and define the following:&lt;/p&gt;
 
@@ -76,7 +197,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;every-week&quot;&gt;&lt;strong&gt;Every week&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;every-week&quot;&gt;Every week&lt;/h3&gt;
 
 &lt;p&gt;We have 3 meetings per week:&lt;/p&gt;
 
@@ -120,7 +241,7 @@
 
 &lt;h1 id=&quot;keeping-team-engaged-and-happy&quot;&gt;Keeping team engaged and happy&lt;/h1&gt;
 
-&lt;h2 id=&quot;game-night&quot;&gt;Game night&lt;/h2&gt;
+&lt;h3 id=&quot;game-night&quot;&gt;Game night&lt;/h3&gt;
 &lt;p&gt;Once a quarter we do a team game night. I organize some type of game, we book a call with everyone and play some games together, either competing against each other or working together as smaller teams.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/team.JPG&quot; alt=&quot;team&quot; /&gt;&lt;/p&gt;
@@ -135,11 +256,11 @@
   &lt;li&gt;&lt;a href=&quot;https://www.jackboxgames.com/party-pack/&quot;&gt;Jackbox Party Games&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;discord--alternative-im&quot;&gt;Discord / Alternative IM&lt;/h2&gt;
+&lt;h3 id=&quot;discord--alternative-im&quot;&gt;Discord / Alternative IM&lt;/h3&gt;
 
 &lt;p&gt;If in your day to day use slack, have an alternative IM system where the team can just chat about non works stuff. For us, we have a discord, we logon at night, play some games together, share a TON of GIFs, etc…&lt;/p&gt;
 
-&lt;h2 id=&quot;moon-shot-projects&quot;&gt;Moon shot projects&lt;/h2&gt;
+&lt;h3 id=&quot;moon-shot-projects&quot;&gt;Moon shot projects&lt;/h3&gt;
 
 &lt;p&gt;On our team at the beginning of the quarter we define one or two moonshot projects, these are projects that involve a strong research component, and that while they can and should contribute to business gains, they are not as direct as the normal busines defined goals.&lt;/p&gt;
 
@@ -162,7 +283,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/alfred.jpg&quot; alt=&quot;alfred&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;offsites&quot;&gt;Offsites&lt;/h1&gt;
+&lt;h3 id=&quot;offsites&quot;&gt;Offsites&lt;/h3&gt;
 
 &lt;p&gt;Being remote is fun, and lots of people enjoy it, but bringing people together at least twice a year is something that we have found also works extremely well for team morale. We typically pick some conferences, we even deliver some talks and end up booking between 3-5 days for all of us to hang out, and just chat or potentially architect new products (no coding).&lt;/p&gt;
 
@@ -180,7 +301,9 @@
   &lt;li&gt;
     &lt;p&gt;Isolation can take a hit on people after a while, make sure you are keeping tabs on the mental state of people in your team during 1:1s and to make sure you are supporting them in the best way that you can.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="management" /><category term="remote" /><category term="engineering" /><summary type="html">As I write this post I have now managed a fully remote team for more than 6 years.</summary></entry><entry><title type="html">2 Users, 1 security notification</title><link href="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html" rel="alternate" type="text/html" title="2 Users, 1 security notification" /><published>2020-09-13T02:56:18+02:00</published><updated>2020-09-13T02:56:18+02:00</updated><id>http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations</id><content type="html" xml:base="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html">&lt;p&gt;Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.&lt;/p&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;were-hiring&quot;&gt;&lt;a href=&quot;https://jobs.lever.co/coalitioninc&quot;&gt;We’re hiring!&lt;/a&gt;&lt;/h1&gt;</content><author><name></name></author><category term="management" /><category term="remote" /><category term="engineering" /><summary type="html">As I write this post I have now managed a fully remote team for more than 6 years.</summary></entry><entry><title type="html">2 Users, 1 security notification</title><link href="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html" rel="alternate" type="text/html" title="2 Users, 1 security notification" /><published>2020-09-13T02:56:18+02:00</published><updated>2020-09-13T02:56:18+02:00</updated><id>http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations</id><content type="html" xml:base="http://localhost:4000/cybersecurity/2020/09/13/1issue2explanations.html">&lt;p&gt;Over the last year, due to the acquisition of my company, I took the position of GM of Customer Security at Coalition Inc., an MGA that sells cyberinsurance.&lt;/p&gt;
 
 &lt;p&gt;We continued to build features into the &lt;a href=&quot;https://app.binaryedge.io&quot;&gt;scanning platform&lt;/a&gt; but also a new product &lt;a href=&quot;https://asm.binaryedge.io&quot;&gt;Attack Surface Monitoring.&lt;/a&gt;&lt;/p&gt;
 
