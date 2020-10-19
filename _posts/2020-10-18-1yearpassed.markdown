@@ -87,7 +87,7 @@ Ana continues her career as a data scientist (she is one of the people in my lif
 
 Marco was a dad and moved to the data science team as a data engineer to help with faster integration of our data. He was the best CTO one could have asked for and just want BinaryEdge needed.
 
-This team is what made all of this possible, and I will forever be thankful to them for everything they did. They made my dream theirs, and I will forever be indebted to them for that.
+This team is what made all of this possible, and I will forever be thankful to them for everything they did. They made my dream theirs, and I will forever be indebted to them for that. When the going gets tough, the tough get going, and this group was the reflection of that. There was no quitting on us.
 
 ## Learnings
 
