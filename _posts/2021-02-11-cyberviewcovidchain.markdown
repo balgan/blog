@@ -102,3 +102,5 @@ These services are spread across multiple ports however by looking at the sankey
 
 
 **One final interesting fact is that all the data we looked at over the course of this post, was on lite mode in ASM, which means we are only looking at 250 ports and without domain enumeration expansion (finding domains other than the main domain provided). Had I put these companies in extendedd mode, we would get all their alternative domains and 65535 ports for all assets which easily means 10-30x the attack surface seen on this post. I'd like to thank Florentino Bexiga and Filipe Reis for the assistance with this post.**
+
+[Subscribe to my newsletter to get updates and new articles right in your inbox!](https://balgan.substack.com/about)
